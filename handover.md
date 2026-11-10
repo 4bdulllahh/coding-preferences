@@ -107,8 +107,8 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | --- | --- | --- | --- |
 | M1 | Skeleton: README, CHANGELOG, LICENSE, this handover | S | ✅ done |
 | M2 | `global/about-me.md`, `global/writing-style.md` | S | ✅ done |
-| M3 | `global/workflow.md` (the request process) | M | next |
-| M4 | `global/code-rules.md` | M | |
+| M3 | `global/workflow.md` (the request process) | M | ✅ done |
+| M4 | `global/code-rules.md` | M | next |
 | M5 | `global/git-and-releases.md` | S | |
 | M6 | `new-project.md`, `stacks.md` | M | |
 | M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | |
@@ -119,4 +119,4 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 
 ## Current state
 
-M1 and M2 done and committed locally. Nothing pushed. Next: M3.
+M1 to M3 done and committed locally. Nothing pushed. Next: M4.
