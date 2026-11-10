@@ -110,8 +110,8 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | M3 | `global/workflow.md` (the request process) | M | ✅ done |
 | M4 | `global/code-rules.md` | M | ✅ done |
 | M5 | `global/git-and-releases.md` | S | ✅ done |
-| M6 | `new-project.md`, `stacks.md` | M | next |
-| M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | |
+| M6 | `new-project.md`, `stacks.md` | M | ✅ done |
+| M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | next |
 | M8 | `templates/release-notes.md`, `templates/README.md` | S | |
 | M9 | `skills/catalog.md` | M | |
 | M10 | `skills/model-router/SKILL.md` | S | |
@@ -119,4 +119,4 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 
 ## Current state
 
-M1 to M5 done and committed locally. Nothing pushed. Next: M6. The user approved M5 to M8 in one run.
+M1 to M6 done and committed locally. Nothing pushed. Next: M7. The user approved M5 to M8 in one run.
