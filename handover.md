@@ -114,9 +114,9 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | ✅ done |
 | M8 | `templates/release-notes.md`, `templates/README.md` | S | ✅ done |
 | M9 | `skills/catalog.md` | M | ✅ done |
-| M10 | `skills/model-router/SKILL.md` | S | next |
-| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | |
+| M10 | `skills/model-router/SKILL.md` | S | ✅ done |
+| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | next |
 
 ## Current state
 
-M1 to M9 done and committed locally. Nothing pushed. Next: M10.
+M1 to M10 done and committed locally. Nothing pushed. Next: M11. install.ps1 must also link `skills/model-router` into `~/.claude/skills/model-router`.
