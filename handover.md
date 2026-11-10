@@ -111,12 +111,12 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | M4 | `global/code-rules.md` | M | ✅ done |
 | M5 | `global/git-and-releases.md` | S | ✅ done |
 | M6 | `new-project.md`, `stacks.md` | M | ✅ done |
-| M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | next |
-| M8 | `templates/release-notes.md`, `templates/README.md` | S | |
+| M7 | `templates/CLAUDE.md`, `templates/handover.md`, `templates/roadmap.md` | M | ✅ done |
+| M8 | `templates/release-notes.md`, `templates/README.md` | S | next |
 | M9 | `skills/catalog.md` | M | |
 | M10 | `skills/model-router/SKILL.md` | S | |
 | M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | |
 
 ## Current state
 
-M1 to M6 done and committed locally. Nothing pushed. Next: M7. The user approved M5 to M8 in one run.
+M1 to M7 done and committed locally. Nothing pushed. Next: M8. The user approved M5 to M8 in one run.
