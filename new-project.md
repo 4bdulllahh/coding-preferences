@@ -72,6 +72,10 @@ Create only what applies:
 | CI workflow | [stacks.md](stacks.md) | `.github/workflows/`, as chosen. |
 | Project skeleton | [stacks.md](stacks.md) | The folder layout for the chosen stack. |
 
+I usually make the repo on github.com and clone it first. If GitHub already created a
+`README.md`, `LICENSE` or `.gitignore`, keep them and fill them in rather than replacing them.
+The repo and remote already exist then, so skip `git init` and creating the GitHub repo.
+
 Then:
 
 1. Install the chosen skills. Plugin installs need me to type the slash command, so give me
