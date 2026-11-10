@@ -12,3 +12,4 @@ Newest first. One line per change, plain English.
 - `new-project.md` (kickoff: playback, four question rounds, plan, setup) and `stacks.md` (past stacks as options, plus ones to offer later).
 - `templates/CLAUDE.md`, `templates/handover.md` and `templates/roadmap.md` for new projects. `.gitattributes` for clean line endings.
 - `templates/release-notes.md` (with a paste-ready paragraph example) and `templates/README.md` (logo, tagline, badges, screenshots).
+- `skills/catalog.md`: all 16 starred skills grouped by when to use them, install commands, install rules, and the model-routing repos I compared.
