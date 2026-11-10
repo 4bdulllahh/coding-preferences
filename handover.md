@@ -10,7 +10,7 @@ global rules loaded in every session via `~/.claude/CLAUDE.md`, plus on-demand f
 (new-project kickoff, stack options, skills catalog, templates). See `README.md`.
 
 - Local folder: `C:\Users\Computer\Documents\GitHub\CodingPrefrences`, branch `main`
-- GitHub name to use: **coding-preferences** (not pushed yet)
+- GitHub: https://github.com/4bdulllahh/coding-preferences (public)
 
 ## Working with the user on this repo
 
@@ -115,8 +115,8 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | M8 | `templates/release-notes.md`, `templates/README.md` | S | ✅ done |
 | M9 | `skills/catalog.md` | M | ✅ done |
 | M10 | `skills/model-router/SKILL.md` | S | ✅ done |
-| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | ✅ done (push waiting for OK) |
+| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | ✅ done |
 
 ## Current state
 
-All 11 milestones done and committed locally. `install.ps1` has been run on this PC and tested with a fresh session. Not pushed yet: waiting for the user to create the GitHub repo `coding-preferences` and say OK. After that, new rules and skills go where the README "Adding to it" table says.
+All 11 milestones done and pushed to https://github.com/4bdulllahh/coding-preferences (renamed from CodingPreferences). `install.ps1` has been run on this PC and tested with a fresh session. After that, new rules and skills go where the README "Adding to it" table says.
