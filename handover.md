@@ -115,8 +115,8 @@ titouannwtt/claude-tools, Zihao-Wu06/claude-code-orchestrate. Note from token-ro
 | M8 | `templates/release-notes.md`, `templates/README.md` | S | ✅ done |
 | M9 | `skills/catalog.md` | M | ✅ done |
 | M10 | `skills/model-router/SKILL.md` | S | ✅ done |
-| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | next |
+| M11 | `install.ps1`, test in a fresh session, ask, push as `coding-preferences` | M | ✅ done (push waiting for OK) |
 
 ## Current state
 
-M1 to M10 done and committed locally. Nothing pushed. Next: M11. install.ps1 must also link `skills/model-router` into `~/.claude/skills/model-router`.
+All 11 milestones done and committed locally. `install.ps1` has been run on this PC and tested with a fresh session. Not pushed yet: waiting for the user to create the GitHub repo `coding-preferences` and say OK. After that, new rules and skills go where the README "Adding to it" table says.

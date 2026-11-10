@@ -25,6 +25,18 @@ nothing to reinstall.
 `global/` costs tokens in every session, so it stays short. Long material goes in the
 on-demand files.
 
+## Setting up a PC (once)
+
+```powershell
+git clone https://github.com/4bdulllahh/coding-preferences.git
+cd coding-preferences
+powershell -ExecutionPolicy Bypass -File .\install.ps1
+```
+
+Then install the always-on skills (ponytail, i-have-adhd) from
+[skills/catalog.md](skills/catalog.md). To check it worked, start a new session and ask
+"what should you call me?". After that, `git pull` here is all it takes to update.
+
 ## Starting a new project
 
 Open Claude Code in the new project's folder and paste:

@@ -14,3 +14,4 @@ Newest first. One line per change, plain English.
 - `templates/release-notes.md` (with a paste-ready paragraph example) and `templates/README.md` (logo, tagline, badges, screenshots).
 - `skills/catalog.md`: all 16 starred skills grouped by when to use them, install commands, install rules, and the model-routing repos I compared.
 - `skills/model-router/SKILL.md`: which jobs go to Haiku, Sonnet or the main model, how to brief a subagent, and when not to delegate.
+- `install.ps1`: imports `global/` into `~/.claude/CLAUDE.md` and links the model-router skill. README: one-time PC setup.
