@@ -11,3 +11,4 @@ Newest first. One line per change, plain English.
 - `global/git-and-releases.md`: commit format, semantic versions with desktop betas from 0.1.0-beta, the release checklist, release notes and README rules.
 - `new-project.md` (kickoff: playback, four question rounds, plan, setup) and `stacks.md` (past stacks as options, plus ones to offer later).
 - `templates/CLAUDE.md`, `templates/handover.md` and `templates/roadmap.md` for new projects. `.gitattributes` for clean line endings.
+- `templates/release-notes.md` (with a paste-ready paragraph example) and `templates/README.md` (logo, tagline, badges, screenshots).
