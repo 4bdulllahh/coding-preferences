@@ -24,7 +24,7 @@ At the start of a project, suggest the ones that fit (see [new-project.md](../ne
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Lazy senior dev: the smallest change that fully solves the task, so less code and fewer tokens. Also `/ponytail-review`, `/ponytail-audit`, `/ponytail-debt`. **Must have.** | `/plugin marketplace add DietrichGebert/ponytail` then `/plugin install ponytail@ponytail` |
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | Straight answers: action first, numbered steps, no filler. | `/plugin marketplace add ayghri/i-have-adhd` then `/plugin install i-have-adhd@i-have-adhd` |
 | [model-router](model-router/SKILL.md) | Mine. Hands easy jobs to cheaper models to save tokens. | `install.ps1` in this repo |
-| [ration](https://github.com/4bdulllahh/ration) | Mine. Plugin: `/ration` sends searching, reading and tests to Haiku, clear changes to Sonnet, keeps hard thinking on the main model, and keeps replies short. Also `/ration handover`, `/ration compress`, `/ration commit`. | `/plugin marketplace add 4bdulllahh/ration` then `/plugin install ration@ration`, restart, then `/ration` |
+| [ration](https://github.com/4bdulllahh/ration) | Mine. Takes ideas from caveman, ponytail, i-have-adhd and four of the routing repos below. Plugin: `/ration` sends searching, reading and tests to Haiku, clear changes to Sonnet, keeps hard thinking on the main model, and keeps replies short. Also `/ration handover`, `/ration compress`, `/ration commit`. | `/plugin marketplace add 4bdulllahh/ration` then `/plugin install ration@ration`, restart, then `/ration` |
 
 ## On demand
 
@@ -69,6 +69,8 @@ At the start of a project, suggest the ones that fit (see [new-project.md](../ne
 
 I wrote my own [model-router](model-router/SKILL.md) because none of these were proven yet
 (November 2026, all under 30 stars). Check again later. Most of them route through subagents too.
+Later I also built [ration](https://github.com/4bdulllahh/ration), which takes ideas from model-routing,
+efficient-claude, smart-task-router and tokenwise. I keep both: model-router and ration.
 
 | Repo | Approach |
 | --- | --- |
