@@ -24,6 +24,7 @@ At the start of a project, suggest the ones that fit (see [new-project.md](../ne
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Lazy senior dev: the smallest change that fully solves the task, so less code and fewer tokens. Also `/ponytail-review`, `/ponytail-audit`, `/ponytail-debt`. **Must have.** | `/plugin marketplace add DietrichGebert/ponytail` then `/plugin install ponytail@ponytail` |
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | Straight answers: action first, numbered steps, no filler. | `/plugin marketplace add ayghri/i-have-adhd` then `/plugin install i-have-adhd@i-have-adhd` |
 | [model-router](model-router/SKILL.md) | Mine. Hands easy jobs to cheaper models to save tokens. | `install.ps1` in this repo |
+| [ration](https://github.com/4bdulllahh/ration) | Mine. Plugin: `/ration` sends searching, reading and tests to Haiku, clear changes to Sonnet, keeps hard thinking on the main model, and keeps replies short. Also `/ration handover`, `/ration compress`, `/ration commit`. | `/plugin marketplace add 4bdulllahh/ration` then `/plugin install ration@ration`, restart, then `/ration` |
 
 ## On demand
 

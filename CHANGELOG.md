@@ -16,3 +16,4 @@ Newest first. One line per change, plain English.
 - `skills/model-router/SKILL.md`: which jobs go to Haiku, Sonnet or the main model, how to brief a subagent, and when not to delegate.
 - `install.ps1`: imports `global/` into `~/.claude/CLAUDE.md` and links the model-router skill. README: one-time PC setup.
 - `new-project.md`: when GitHub already made a README, LICENSE or .gitignore, keep and fill them in; skip git init for cloned repos.
+- `skills/catalog.md`: added ration, my token-saving plugin, to the always-on skills.
