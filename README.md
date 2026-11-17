@@ -43,8 +43,7 @@ Open Claude Code in the new project's folder and paste:
 
 ```text
 I'm starting a new project in this folder. Read my preferences repo at
-C:\Users\Computer\Documents\GitHub\CodingPrefrences (or
-https://github.com/4bdulllahh/coding-preferences), starting with new-project.md, and
+https://github.com/4bdulllahh/coding-preferences, starting with new-project.md, and
 follow it: ask me your questions, and once I give the thumbs up, write this project's
 CLAUDE.md and handover.md from the templates.
 ```
